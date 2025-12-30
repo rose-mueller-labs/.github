@@ -1,6 +1,6 @@
-# 🌱 Rose-Mueller Experimental Evolution Lab
+# 🌱 Rose Mueller Lab
 
-Welcome to the GitHub organization of the **Rose and Mueller Laboratories** at the **Department of Ecology and Evolutionary Biology, University of California, Irvine**.
+Welcome to the GitHub organization of the **Rose Mueller Lab** at the **Department of Ecology and Evolutionary Biology, University of California, Irvine**.
 
 We are pioneering a new kind of biology—one built not on the reductionist frameworks of the past century, but on the power of **genomics**, **experimental evolution**, and **bioinformatics**. Our mission is to develop a data-driven, systems-level understanding of biological function and evolution using experimental methods and large-scale genetic analysis.
 
